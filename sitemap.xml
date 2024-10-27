@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://varun-sn.github.io/articles/</loc>
+  </url><url>
+    <loc>http://varun-sn.github.io/publications/</loc>
+  </url><url>
+    <loc>http://varun-sn.github.io/talks/</loc>
+  </url><url>
+    <loc>http://varun-sn.github.io/me/</loc>
+  </url><url>
+    <loc>http://varun-sn.github.io/</loc>
+  </url><url>
+    <loc>http://varun-sn.github.io/tags/</loc>
+  </url>
+</urlset>

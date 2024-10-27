@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tags on S. Varun</title>
+    <link>http://varun-sn.github.io/tags/</link>
+    <description>Recent content in tags on S. Varun</description>
+    <image>
+      <title>S. Varun</title>
+      <url>http://varun-sn.github.io/cover.png</url>
+      <link>http://varun-sn.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en</language>
+    <atom:link href="http://varun-sn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>S. Varun</title>
+    <link>http://varun-sn.github.io/</link>
+    <description>Recent content on S. Varun</description>
+    <image>
+      <title>S. Varun</title>
+      <url>http://varun-sn.github.io/cover.png</url>
+      <link>http://varun-sn.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en</language>
+    <atom:link href="http://varun-sn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://varun-sn.github.io/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://varun-sn.github.io/articles/</guid>
+      <description>Popular Articles Varun S. Nanotechnology for COVID-19: The Promising Role of Nanotechnology in Fighting the Pandemic (in Malayalam). Deshabhimani Kilivathil (2020) Varun S. Nanotechnology for forensic science (in Malayalam). Deshabhimani Kilivathil (2021) </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://varun-sn.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://varun-sn.github.io/publications/</guid>
+      <description>Patents Varun S., Chandran A.M., Mural P.K.S. Design of Low-Cost, Highly Sophisticated Piezo, Tribo, Piezo-Tribo Hybrid Electric Characterization Instrument. Indian Patent, Application no. 202141050973, Patent: 482716 (2021) Daniel S.C.G.K., Varun S., Gorthi S.S. Methods of using a FRA for nanoparticle synthesis leading to detection of analyte. Indian Patent, Application no. 201641039885 (2016) Daniel S.C.G.K., Varun S., Gorthi S.S. A method and a composition for rapid nanorice formation. Indian Patent, Application no.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://varun-sn.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://varun-sn.github.io/talks/</guid>
+      <description>Public Lectures Robotics in healthcare, surgery &amp;amp; diagnostics. Public lecture part of the Reason&#39;20 Science Seminar organized by esSENSE Global, Pathanamthitta (02 Feb 2020). DNA Origami. Public lecture part of the &amp;rsquo;essentia&#39;19&amp;rsquo; 3rd Annual Fest organized by eeSENSE Global, Kerala (31 Dec 2019). Nanotechnology for real-world applications. Public lecture part of the Luminati Science Seminar organized by eeSENSE Global, Alappuzha (04 August 2019). Outreach &amp;amp; Public Engagement Endosulphan: The Synonyms of Poison.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://varun-sn.github.io/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://varun-sn.github.io/me/</guid>
+      <description>I am a nanotechnologist and multidisciplinary scientist with a keen interest in exploring the intersections of chemical biology, materials chemistry, and molecular nanotechnology. My research focuses on understanding nanoscale interactions, where I bridge the fields of biology and chemistry to investigate how these tiny structures can influence larger biological systems. Through my work, I aim to uncover innovative solutions that leverage nanoscale phenomena for advancements in various scientific domains.</description>
+    </item>
+  </channel>
+</rss>

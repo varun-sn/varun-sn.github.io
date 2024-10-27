@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://varun-sn.github.io/sitemap.xml
